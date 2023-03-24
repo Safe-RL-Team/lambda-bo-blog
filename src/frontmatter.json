@@ -1,0 +1,26 @@
+{
+	"title": "SRL blog",
+	"description": "A safe reinforcement learning blog.",
+	"authors": [
+		{
+			"author": "Vincent Meilinger",
+			"authorURL": "https://github.com/VincentMeilinger",
+			"affiliation": "TU Berlin",
+			"affiliationURL": "https://www.tu.berlin/en/"
+		}
+	],
+	"katex": {
+		"delimiters": [
+			{
+				"left": "$",
+				"right": "$",
+				"display": false
+			},
+			{
+				"left": "$$",
+				"right": "$$",
+				"display": true
+			}
+		]
+	}
+}
