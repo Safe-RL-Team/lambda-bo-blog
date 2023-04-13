@@ -73,7 +73,7 @@
 
 <div class="container">
   {#each images as image (image)}
-    <img src={"/plots2/" + image + ".png"} alt={image + ".png"} id={image + "-2"} class="hidden mean" />
+    <img src={"plots2/" + image + ".png"} alt={image + ".png"} id={image + "-2"} class="hidden mean" />
   {/each}
 </div>
 <div style="width: 70%;margin: 0% 15% 5% 15%;">
